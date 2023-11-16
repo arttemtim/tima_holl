@@ -1,4 +1,4 @@
-id, name, url, price, promo, price_on_promo, brand
+id, name, url, price, promo, price_not_promo, brand
 "179697","Йогуртный продукт Нежный с соком банан-клубника 1.2%, 100г","https://online.metro-cc.ru/products/nezhnyj-s-sokom-banana-klubniki-12-100g-bzmzh","18.9","True","21.99","НЕЖНЫЙ"
 "379667","Йогуртный продукт Нежный ягодное мороженое 1.2%, 100г","https://online.metro-cc.ru/products/produkt-nezhnyj-12-so-vkusom-yagodnoe-morozhenoe-100g-bzmzh","18.9","True","21.99","НЕЖНЫЙ"
 "110981","Йогуртный продукт Нежный с соком персика 1.2%, 100г","https://online.metro-cc.ru/products/nezhnyj-persik-12-100g","18.9","True","21.99","НЕЖНЫЙ"
