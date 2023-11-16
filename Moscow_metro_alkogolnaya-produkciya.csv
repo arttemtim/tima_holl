@@ -1,4 +1,4 @@
-id, name, url, price, promo, price_on_promo, brand
+id, name, url, price, promo, price_not_promo, brand
 "595879","Пиво Балтика №0 Лайм безалкогольное, 0.33л","https://online.metro-cc.ru/products/pivo-bezalkogolnoe-baltika-0-lajm-033-l","39.9","True","54.9","БАЛТИКА"
 "538550","Пиво Балтика №0 Грейпфрут безалкогольное, 0.33л","https://online.metro-cc.ru/products/baltika-0-grejpfrut-svetloe-033-l","39.9","True","54.9","БАЛТИКА"
 "571408935","Пиво Жигулевское специальное, 0.44л","https://online.metro-cc.ru/products/044l-pivo-zhigulevskoe-spetsialnoe-st","41.9","False","","ЖИГУЛЕВСКОЕ"
